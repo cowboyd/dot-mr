@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/emacs.d.git]
+checkout = vcsh clone git://github.com/cowboyd/.emacs.d.git emacs.d
