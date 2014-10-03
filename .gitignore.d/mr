@@ -1,0 +1,6 @@
+*
+!.gitignore.d
+!.gitignore.d/mr
+!.config
+!.config/mr
+!.mrconfig
