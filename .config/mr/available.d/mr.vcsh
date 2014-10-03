@@ -1,2 +1,3 @@
 [$HOME/.config/vcsh/repo.d/mr.git]
 checkout = vcsh clone git://github.com/cowboyd/config-mr.git mr
+push = vcsh mr push git@github.com:cowboyd/config-mr.git
