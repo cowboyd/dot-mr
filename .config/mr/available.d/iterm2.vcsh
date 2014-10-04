@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/iterm2.git]
+checkout = vcsh clone git://github.com/cowboyd/dot-iterm2.git iterm2
+push = vcsh iterm2 push git@github.com:cowboyd/dot-iterm2.git
